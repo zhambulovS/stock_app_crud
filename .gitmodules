@@ -1,0 +1,3 @@
+[submodule "stock_app_crud_front"]
+	path = stock_app_crud_front
+	url = https://github.com/zhambulovS/stock_app_crud_front.git
